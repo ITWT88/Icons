@@ -1,0 +1,10 @@
+{"name":"Roms Valley - NDS",
+"short_name":"Roms Valley - NDS",
+"icons":[{"src":"https://1.bp.blogspot.com/-JvN7o-_8Rfk/YIml_QfpAMI/AAAAAAAAB5A/QlUAi8QYmqEhOUfNTO4d4CZuf6_9n5RuwCLcBGAsYHQ/s192/android-chrome-192x192.png",
+"sizes":"192x192",
+"type":"image/png"},
+{"src":"https://1.bp.blogspot.com/-qVY4JjUg9FU/YIml_f0PYvI/AAAAAAAAB5E/BTvykV2CSOwAvsxXhs_NRzgF_Z56Ic8pgCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes":"512x512","type":"image/png"}],
+    "theme_color":"#000000",
+    "background_color":"#858786",
+    "display":"standalone"}
