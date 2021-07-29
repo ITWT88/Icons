@@ -8,7 +8,7 @@
         "type":"image/png"}],
     "theme_color":"#ffff",
     "background_color":"#ffff",
-    "display":"standalone"
+    "display":"standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.lavidaes.org/"
 }
