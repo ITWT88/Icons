@@ -8,5 +8,10 @@
         "type":"image/png"}],
     "theme_color":"#bbbbbb",
     "background_color":"#aaaaaa",
-    "display":"standalone"}
+    "display":"standalone"
+    "prefer_related_applications": false,
+  "start_url": "https://www.lavidaes.org/"
+}
+
+    
 
