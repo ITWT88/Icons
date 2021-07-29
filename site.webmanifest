@@ -6,8 +6,8 @@
     {"src":"https://1.bp.blogspot.com/-GTiAX9t-iWA/YIBGyGRFtjI/AAAAAAAAA38/c5YmyOZoqugmaofZle1zFWRM12U5sa-5gCLcBGAsYHQ/s512/android-chrome-512x512.png",
         "sizes":"512x512",
         "type":"image/png"}],
-    "theme_color":"#bbbbbb",
-    "background_color":"#aaaaaa",
+    "theme_color":"#ffff",
+    "background_color":"#ffff",
     "display":"standalone"
     "prefer_related_applications": false,
   "start_url": "https://www.lavidaes.org/"
